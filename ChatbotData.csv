@@ -6,6 +6,8 @@ Q,A,label
 없이 주세요,False,0
 없이,False,0
 없는,False,0
+없는 걸로,False,0
+없는걸로,False,0
 추가해 주세요,True,0
 추가해서,True,0
 추가로,True,0
@@ -16,3 +18,7 @@ Q,A,label
 있이,True,0
 더해서 주세요,True,0
 더해서,True,0
+넣어서,True,0
+넣고,True,0
+넣은걸로,True,0
+넣은 걸로,True,0
